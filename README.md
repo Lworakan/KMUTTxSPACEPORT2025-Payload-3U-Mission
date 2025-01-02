@@ -3,6 +3,7 @@
 ## Overview
 The `KMUTTxSPACEPORT2025-Payload-3U-Mission` is an innovative satellite project designed to achieve dual objectives using a 3U CubeSat platform. The mission focuses on advancing space technology, fostering collaboration, and addressing critical challenges in satellite communication and data continuity.
 
+!(./Payloadoperation.png)
 ## Objectives
 ### 1. Collaborative Imaging with 3D Modeling
 - Capture high-resolution images of the mission rocket featuring corporate branding or logos from partnered organizations.
